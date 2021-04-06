@@ -1,5 +1,8 @@
 
-A personal portfolio created with the template made by UX/UI designer [Xiaoying Riley] (https://github.com/xriley/DevBlog-Theme)
+A personal portfolio created with the template made by UX/UI designer Xiaoying Riley. The template is forked from (https://github.com/xriley/DevBlog-Theme).
+
+
+You can check my porfolio at https://yongweilin.github.io
 
 ## Author & License
 
