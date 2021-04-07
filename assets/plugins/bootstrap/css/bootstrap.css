@@ -475,10 +475,7 @@ mark,
   height: auto;
 }
 
-.img-app {
-  max-width: 30%;
-  height: auto;
-}
+
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -3515,6 +3512,14 @@ input[type="button"].btn-block {
   align-items: flex-start;
   -ms-flex-pack: center;
   justify-content: center;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
 }
 
 .btn-group-vertical > .btn,
